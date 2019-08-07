@@ -19,6 +19,6 @@ pip install -r requirements.txt
 - tensorflow-gpu
 - numpy
 - opencv
-- openh264-1.8.0-win64.dll (Read/Write MP4 Encoding)
+- openh264-1.8.0-win64.dll (Read/Write MP4 File)
 ...
 

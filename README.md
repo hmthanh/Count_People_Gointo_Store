@@ -14,7 +14,7 @@ with Faster-RCNN Algorithm
 ```
 pip install -r requirements.txt
 ```
-* Make sure you have your own those things:
+### Make sure you have your own those things:
 - tensorflow
 - tensorflow-gpu
 - numpy

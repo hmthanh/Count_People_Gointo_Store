@@ -22,3 +22,8 @@ pip install -r requirements.txt
 - openh264-1.8.0-win64.dll (Read/Write MP4 File)
 ...
 
+## Run project
+
+```
+python Count_People_Gointo_Store.py
+```
